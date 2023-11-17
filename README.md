@@ -1,7 +1,6 @@
 <h1>Olá 👋,  me chamo Carla de Oliveira</h1>
 
 - 👩‍💻 Sou estudante do curso de Engenharia de Software na Udesc.
-- 💻 Estou empenhada em aprofundar meus conhecimentos na área de programação.
 - 🎯 Focada em desenvolver projetos que me permitam aperfeiçoar minhas habilidades nas diversas linguagens de programação.
 - 👉 Tenho como principais competências:
   * trabalho em equipe,
